@@ -9,7 +9,7 @@ This is what we did this week!
 1. Sketches: [one](https://gabjohar.github.io/sillyoracle/sketches/sketches0.PNG), [two](https://gabjohar.github.io/sillyoracle/sketches/sketches1.PNG), [three](https://gabjohar.github.io/sillyoracle/sketches/sketches2.PNG), [four](https://gabjohar.github.io/sillyoracle/sketches/sketches3.PNG)
 2. [Grids & Gestures exercise](https://gabjohar.github.io/sillyoracle/gridsandgestures.PNG) 
 3. Physical Hypertext 
-4. Twine (an [unfinished game called *Body Story*])(https://gabjohar.github.io/sillyoracle/twine-games/bodystory2.html)
+4. Twine (an [unfinished game called *Body Story*](https://gabjohar.github.io/sillyoracle/twine-games/bodystory2.html))
 5. [Cut-up Poetry](https://gabjohar.github.io/sillyoracle/cutuppoetry.PNG) 
 6. [A Tracery bot](https://botsin.space/@sillyoracle)
 7. [Scalar](https://scalar.usc.edu/works/test-book-483) (just a test; all the images are from the awesome [*A Factory As It Might Be* project](https://assemblestudio.co.uk/projects/a-factory-as-it-might-be) by Assemble, Granby Workshop & collaborators)  
