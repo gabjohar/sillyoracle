@@ -14,5 +14,5 @@ This is what we did!
 6. Tracery bots
 7. Scalar
 8. P5 Poetics
-9. Bitsy
+9. [Bitsy](https://gabjohar.github.io/sillyoracle/bitsy-games/the_fleshy_one.html)
 10. Github!
