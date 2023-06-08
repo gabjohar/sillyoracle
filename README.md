@@ -1,4 +1,4 @@
-# sillyoracle.github.io
+# Welcome to Critical Making!
 
 ### Projects from the 2023 DHSI Critical Making Workshop with Anastasia Salter and Jason Helms
 
