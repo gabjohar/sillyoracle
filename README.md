@@ -6,8 +6,8 @@
 
 This is what we did!
 
-1. Sketches
-2. Grids & Gestures
+1. Sketches: [one](), [two](), [three]()
+2. Grids & Gestures exercise
 3. Physical Hypertext
 4. Twine
 5. Cut-up Poetry
