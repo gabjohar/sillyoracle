@@ -4,4 +4,4 @@
 
 Mostly Twine and bitsy games, as well as a few OpenProcessing sketches, a Mastodon bot and maybe a Scalar link?
 
-![](https://github.com/gabjohar/sillyoracle.github.io/foucault.gif)
+![](https://github.com/sillyoracle.github.io/foucault.gif)
