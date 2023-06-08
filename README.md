@@ -1,10 +1,10 @@
 # Welcome to Critical Making!
 
-### Projects from the 2023 DHSI Critical Making Workshop with Anastasia Salter and Jason Helms
+### Projects from the 2023 DHSI Critical Making Workshop with [Anastasia Salter](https://selfloud.net/) and [Jason Helms](https://personal.tcu.edu/jasonhelms/)
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3MTdmMTMxODgyZDIzOTU5YzU0ZGUyNjlkMDZkZWEzMjI3MGE5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Gb2KFjzztNo1W/giphy.gif)
 
-This is what we did!
+This is what we did this week!
 
 1. Sketches: [one](https://gabjohar.github.io/sillyoracle/sketches/sketches0.PNG), [two](https://gabjohar.github.io/sillyoracle/sketches/sketches1.PNG), [three](https://gabjohar.github.io/sillyoracle/sketches/sketches2.PNG), [four](https://gabjohar.github.io/sillyoracle/sketches/sketches3.PNG)
 2. [Grids & Gestures exercise](https://gabjohar.github.io/sillyoracle/gridsandgestures.PNG) 
