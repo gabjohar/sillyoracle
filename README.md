@@ -12,8 +12,8 @@ This is what we did!
 4. Twine (an [unfinished game called *Body Story*])(https://gabjohar.github.io/sillyoracle/twine-games/bodystory2.html)
 5. [Cut-up Poetry](https://gabjohar.github.io/sillyoracle/cutuppoetry.PNG) 
 6. [A Tracery bot](https://botsin.space/@sillyoracle)
-7. [Scalar](https://scalar.usc.edu/works/test-book-483) (just a test; all the 
-8. P5 Poetics
+7. [Scalar](https://scalar.usc.edu/works/test-book-483) (just a test; all the images are from the awesome [*A Factory As It Might Be* project](https://assemblestudio.co.uk/projects/a-factory-as-it-might-be) by Assemble, Granby Workshop & collaborators)  
+8. P5 Poetics like [this one](https://gabjohar.github.io/sillyoracle/open-processing-sketches/mots-chauds-mouvants/motchaudsmouvants.html) 
 9. [Bitsy](https://gabjohar.github.io/sillyoracle/bitsy-games/the_fleshy_one.html)
 10. (bonus) We also documented everything in Github!
 11. (bonus) We also tried to [integrate everything in Twine](https://gabjohar.github.io/sillyoracle/twine-integration-cm.html)
