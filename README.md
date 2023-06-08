@@ -6,10 +6,10 @@
 
 This is what we did!
 
-1. Sketches: [one](), [two](), [three]()
-2. Grids & Gestures exercise
-3. Physical Hypertext
-4. Twine
+1. Sketches: [one](https://gabjohar.github.io/sillyoracle/sketches/sketches0.PNG), [two](https://gabjohar.github.io/sillyoracle/sketches/sketches1.PNG), [three](https://gabjohar.github.io/sillyoracle/sketches/sketches2.PNG), [four](https://gabjohar.github.io/sillyoracle/sketches/sketches3.PNG)
+2. [Grids & Gestures exercise](https://gabjohar.github.io/sillyoracle/gridsandgestures.PNG) 
+3. Physical Hypertext 
+4. Twine (an [unfinished game called *Body Story*]()
 5. Cut-up Poetry
 6. Tracery bots
 7. Scalar
