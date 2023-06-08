@@ -15,4 +15,5 @@ This is what we did!
 7. Scalar
 8. P5 Poetics
 9. [Bitsy](https://gabjohar.github.io/sillyoracle/bitsy-games/the_fleshy_one.html)
-10. Github!
+10. (bonus) We also documented everything in Github!
+11. (bonus) We also tried to [integrate everything in Twine](https://gabjohar.github.io/sillyoracle/twine-integration-cm.html)
