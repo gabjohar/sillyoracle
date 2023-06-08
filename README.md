@@ -1,6 +1,6 @@
 # Welcome to Critical Making!
 
-### Projects from the 2023 DHSI Critical Making Workshop with [Anastasia Salter](https://selfloud.net/) and [Jason Helms](https://personal.tcu.edu/jasonhelms/)
+### Projects from the [2023 DHSI](https://dhsi.org/) Critical Making Workshop with [Anastasia Salter](https://selfloud.net/) and [Jason Helms](https://personal.tcu.edu/jasonhelms/)
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3MTdmMTMxODgyZDIzOTU5YzU0ZGUyNjlkMDZkZWEzMjI3MGE5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Gb2KFjzztNo1W/giphy.gif)
 
